@@ -167,6 +167,22 @@
          "id":14,
          "name":"metting-room",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Meeting-my-room"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press on SPACE to enter in jitsi meet room"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":88,
