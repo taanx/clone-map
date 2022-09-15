@@ -117,7 +117,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"rmutl-map-abl2.json#eniry-from-R3rd"
+                         "value":"https:\/\/play.workadventu.re\/@\/rmutl\/abl_map\/rmutl-abl-3rd#eniry-from-R3rd"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -180,7 +180,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"rmutl-map-abl2.json#eniry-from-L3rd"
+                         "value":"https:\/\/play.workadventu.re\/@\/rmutl\/abl_map\/rmutl-abl-3rd#eniry-from-L3rd"
                         }],
                  "type":"tilelayer",
                  "visible":true,
