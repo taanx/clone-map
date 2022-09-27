@@ -1892,6 +1892,24 @@
                 {
                  "class":"",
                  "height":34,
+                 "id":22,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"TH SarabunPSK",
+                     "pixelsize":21,
+                     "text":"301",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":83,
+                 "x":2310.33333333333,
+                 "y":1224
+                }, 
+                {
+                 "class":"",
+                 "height":34,
                  "id":11,
                  "name":"",
                  "rotation":0,
@@ -2075,7 +2093,7 @@
          "y":0
         }],
  "nextlayerid":37,
- "nextobjectid":19,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
